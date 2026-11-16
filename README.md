@@ -31,7 +31,7 @@
 With the [skills CLI](https://skills.sh):
 
 ```bash
-npx skills add RabbitDesigns22/easy-for-them
+npx skills@1.8.1 add https://github.com/RabbitDesigns22/easy-for-them/tree/b6420d5171e88d7361766f08d8f1227a67a4a24e
 ```
 
 Or manually: copy `skills/easy-for-them/` into `~/.claude/skills/` for all your projects, or into `.claude/skills/` for one project.
@@ -51,7 +51,7 @@ Before writing instructions or a message someone else has to follow, load the ea
 
 **Pónselo fácil a la gente.** Cuando alguien tiene que hacer algo (tú o tu cliente), el agente quita todos los pasos que puede, da el enlace directo a la pantalla exacta, escribe una acción por línea en palabras simples y te deja el mensaje listo para reenviarle a tu cliente tal cual, con tu voz. Nada de "entra a Configuración, luego a Facturación...".
 
-Instalar: `npx skills add RabbitDesigns22/easy-for-them`
+Instalar: `npx skills@1.8.1 add https://github.com/RabbitDesigns22/easy-for-them/tree/b6420d5171e88d7361766f08d8f1227a67a4a24e`
 
 ## More skills from the same setup
 
